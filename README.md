@@ -11,3 +11,5 @@ I was ending up with a big flat folder full of scripts that were getting out of 
 as a simple start, I created a project module folder (`titanic`, here) with submodules for feature engineering and model creation, a main.py file that imports from it, and a ipynb notebook file for interactive exploratory work (accessible by running `jupyter notebook` from the root directory of the project)
 
 This is still probably too simplistic and naive. As I continue to work on kaggle problems, perhaps this directory structure convention project will adopt some of my learnings.
+
+(as of now, this does not contain any real project data/features/models. just placeholders)
