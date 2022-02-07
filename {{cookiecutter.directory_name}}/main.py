@@ -1,4 +1,4 @@
-from titanic.models import model1
+from {{cookiecutter.project_name}}.models import model1
 import os
 training_filename = "train.csv"
 results_filename = "results.csv"

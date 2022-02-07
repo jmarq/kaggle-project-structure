@@ -1,4 +1,4 @@
-from titanic.features.transform import transform_data
+from {{cookiecutter.project_name}}.features.transform import transform_data
 
 
 # maybe a class here?
