@@ -13,3 +13,6 @@ as a simple start, I created a project module folder (`titanic`, here) with subm
 This is still probably too simplistic and naive. As I continue to work on kaggle problems, perhaps this directory structure convention project will adopt some of my learnings.
 
 (as of now, this does not contain any real project data/features/models. just placeholders)
+
+currently working on a cookiecutter branch that would allow using this template via cookiecutter cli
+`cookiecutter git+ssh://git@github.com/jmarq/kaggle-project-structure --checkout cookiecutter`
